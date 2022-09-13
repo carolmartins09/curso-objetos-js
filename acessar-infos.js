@@ -11,4 +11,4 @@ console.log(cliente[chaves[0]])
 
 chaves.forEach(info => console.log(cliente[info]))
 
-console.log(cliente["conta"])
+console.log(cliente["conta"])  //undefined
